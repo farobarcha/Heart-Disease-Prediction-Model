@@ -199,8 +199,8 @@ iface.launch()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
-   cd heart-disease-prediction
+   git clone https://github.com/farobarcha/Heart-Disease-Prediction-Model.git
+   cd Heart-Disease-Prediction-Model
    ```
 
 2. Install dependencies:
